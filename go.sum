@@ -9,6 +9,10 @@ github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973 h1:xJ4a3vCFaGF/jqvzLM
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/bmizerany/perks v0.0.0-20141205001514-d9a9656a3a4b h1:AP/Y7sqYicnjGDfD5VcY4CIfh1hRXBUavxrvELjTiOE=
 github.com/bmizerany/perks v0.0.0-20141205001514-d9a9656a3a4b/go.mod h1:ac9efd0D1fsDb3EJvhqgXRbFx7bs2wqZ10HQPeU8U/Q=
+github.com/bobg/tchannel-go v1.16.1-0.20210428200512-f2f1e3406122 h1:zGRa3Bsd3Z+Vyop09gO18icXEuyqrTOcwcAZ8giottM=
+github.com/bobg/tchannel-go v1.16.1-0.20210428200512-f2f1e3406122/go.mod h1:LAQqrd/W3skV//aawkj6L34CoO0StQrxYwov1Ju8UFo=
+github.com/bobg/thrift v0.0.0-20210428202855-bad58c1876ce h1:QtYQE02p4EyHb9PROE9/pbo3eixS8M4SCItNtXbDLk8=
+github.com/bobg/thrift v0.0.0-20210428202855-bad58c1876ce/go.mod h1:Q5aI8f2fH6hzY+Z+nGAugDkmsfwoAmqYNs0Lg+Agoe0=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd h1:qMd81Ts1T2OTKmB4acZcyKaMtRnY5Y44NuXGX2GFJ1w=
 github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd/go.mod h1:sE/e/2PUdi/liOCUjSTXgM1o87ZssimdTWN964YiIeI=

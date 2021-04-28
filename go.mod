@@ -57,3 +57,7 @@ require (
 	google.golang.org/grpc v1.23.1 // indirect
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
+
+replace github.com/apache/thrift => github.com/bobg/thrift v0.0.0-20210428202855-bad58c1876ce
+
+replace github.com/uber/tchannel-go => github.com/bobg/tchannel-go v1.16.1-0.20210428200512-f2f1e3406122
