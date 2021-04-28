@@ -4,9 +4,10 @@ go 1.13
 
 require (
 	github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239 // indirect
-	github.com/apache/thrift v0.0.0-20161221203622-b2a4d4ae21c7
+	github.com/apache/thrift v0.0.0-20161221203622-b2a4d4ae21c7 // indirect
 	github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973 // indirect
 	github.com/bmizerany/perks v0.0.0-20141205001514-d9a9656a3a4b // indirect
+	github.com/bobg/thrift v0.0.0-20210428204524-810c913f95a0
 	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
 	github.com/crossdock/crossdock-go v0.0.0-20160816171116-049aabb0122b // indirect
 	github.com/davecgh/go-spew v1.1.0 // indirect

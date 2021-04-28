@@ -39,7 +39,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/apache/thrift/lib/go/thrift"
+	"github.com/bobg/thrift/lib/go/thrift"
 	"github.com/opentracing/opentracing-go"
 	"github.com/pborman/uuid"
 	"github.com/uber-go/tally"
