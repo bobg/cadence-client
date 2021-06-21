@@ -27,7 +27,7 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/apache/thrift/lib/go/thrift"
+	"github.com/bobg/thrift/lib/go/thrift"
 	"go.uber.org/cadence/internal/common"
 )
 

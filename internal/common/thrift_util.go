@@ -23,7 +23,7 @@ package common
 import (
 	"reflect"
 
-	"github.com/apache/thrift/lib/go/thrift"
+	"github.com/bobg/thrift/lib/go/thrift"
 )
 
 // TSerialize is used to serialize thrift TStruct to []byte
